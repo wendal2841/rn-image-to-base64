@@ -1,16 +1,21 @@
-
 {
   "name": "rn-image-to-base64",
   "version": "1.0.0",
   "description": "Convert image to base64",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [
     "react-native",
     "base64"
   ],
-  "author": "Snapp",
-  "license": "MIT"
+  "author": "rn-image-to-base64",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendal2841/rn-image-to-base64.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wendal2841/rn-image-to-base64/issues"
+  },
+  "homepage": "https://github.com/wendal2841/rn-image-to-base64#readme"
 }
