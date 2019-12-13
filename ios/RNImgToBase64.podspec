@@ -6,11 +6,11 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                     Convert img to base64
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/wendal2841/rn-image-to-base64"
   s.license      = "MIT"
   s.author       = { "author" => "contact@snapp.fr" }
   s.platform     = :ios, "7.0"
-  s.source       = { :git => "https://github.com/Snapp-FidMe/react-native-img-to-base64", :tag => "master" }
+  s.source       = { :git => "https://github.com/wendal2841/rn-image-to-base64", :tag => "master" }
   s.source_files  = "RNImgToBase64/**/*.{h,m}"
   s.requires_arc = true
 
@@ -18,4 +18,3 @@ Pod::Spec.new do |s|
 
 end
 
-  
