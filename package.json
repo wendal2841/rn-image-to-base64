@@ -1,14 +1,19 @@
 {
-  "name": "rn-image-to-base64",
+  "name": "@rn-wendal/image-to-base64",
   "version": "1.0.0",
   "description": "Convert image to base64",
   "main": "index.js",
+  "files": [
+    "android",
+    "ios",
+    "index.js"
+  ],
   "scripts": {},
   "keywords": [
     "react-native",
     "base64"
   ],
-  "author": "rn-image-to-base64",
+  "author": "image-to-base64",
   "license": "MIT",
   "repository": {
     "type": "git",
