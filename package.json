@@ -8,7 +8,9 @@
     "ios",
     "index.js"
   ],
-  "scripts": {},
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
   "keywords": [
     "react-native",
     "base64"
